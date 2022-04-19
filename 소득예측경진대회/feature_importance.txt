@@ -1,0 +1,17 @@
+피쳐 중요도 순위
+
+fnlwgt - CPS(Current Population Survey)가중치 #
+age - 나이 #
+hours.per.week - 주당 근무시간 #
+capital.gain - 자본 이익
+occupation - 직업 #
+education.num - 교육수준 번호 #
+capital.loss - 자본 손실
+————————
+workclass - 일 유형
+education - 교육수준 #
+relationship - 가족관계 #
+marital.status - 결혼 상태 #
+native.country - 본 국적
+race - 인종
+sex - 성별

@@ -1,0 +1,12 @@
+<피쳐 특징>
+
+age - 나이가 많을수록 1이 많음
+education_num - 숫자 높을수록 1이 많음
+workclass - private일 때 0일 확률 더 높음
+education - 0일 때 some-college, hs-grad 높음, 1일 때 bachelors 높음
+
+피쳐 가공
+
+나이 - 교육수준 번호 비율
+자본 이익 - 자본 손실 비율
+나이 - fnlwgt
